@@ -6,7 +6,11 @@
 
     <name> -- <role> -- <twitter>
 
+<<<<<<< HEAD
 # THANKS ALL
+=======
+# THANKS YOU
+>>>>>>> realworks
 
     <name>
 
